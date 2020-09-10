@@ -1,10 +1,7 @@
 
 # Cocktail Database with ReactJS
 <h3>Project Overview</h3>
-This project was developed using ReactJS with VSCode. Sqlite was used as a database. It offers news APIs to the user from many different sources.
-</br>
-<h3>Version Note</h3>
-RapidApi was used as a source. Users were allowed to discover new cocktails, search by ingredient type or recently added cocktails.
+This project was developed using ReactJS with VSCode. RapidApi was used as a source. Users were allowed to discover new cocktails, search by ingredient type or recently added cocktails.
 <h3>Software Features</h3>
 <ul>
         <li>React(Version 16)</li>
