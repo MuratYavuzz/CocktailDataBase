@@ -4,7 +4,7 @@
 This project was developed using ReactJS with VSCode. Sqlite was used as a database. It offers news APIs to the user from many different sources.
 </br>
 <h3>Version Note</h3>
-This project works for android 5.0 and above.RapidApi was used as a source. Users were allowed to discover new cocktails, search by ingredient type or recently added cocktails.
+RapidApi was used as a source. Users were allowed to discover new cocktails, search by ingredient type or recently added cocktails.
 <h3>Software Features</h3>
 <ul>
         <li>React(Version 16)</li>
