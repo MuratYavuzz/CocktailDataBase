@@ -18,7 +18,6 @@ function App() {
         <Route path="/DrinksByIngredient" exact component={DrinksByIngredient} />
         <Route path="/RandomCocktail" exact component={RandomDrink} />
         <Route path="/MostLatest" exact component={NonAlcoholicDrinks} />
-        <Route path='*' exact component={NotFound} />
       </Switch>
     </Container>
   );
