@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/CocktailDatabase/static/js/main.a6c5b871.chunk.js",
-    "main.js.map": "/CocktailDatabase/static/js/main.a6c5b871.chunk.js.map",
+    "main.js": "/CocktailDatabase/static/js/main.329de607.chunk.js",
+    "main.js.map": "/CocktailDatabase/static/js/main.329de607.chunk.js.map",
     "runtime-main.js": "/CocktailDatabase/static/js/runtime-main.8cdd5b2b.js",
     "runtime-main.js.map": "/CocktailDatabase/static/js/runtime-main.8cdd5b2b.js.map",
     "static/css/2.ee47ed0b.chunk.css": "/CocktailDatabase/static/css/2.ee47ed0b.chunk.css",
     "static/js/2.e9038e8f.chunk.js": "/CocktailDatabase/static/js/2.e9038e8f.chunk.js",
     "static/js/2.e9038e8f.chunk.js.map": "/CocktailDatabase/static/js/2.e9038e8f.chunk.js.map",
     "index.html": "/CocktailDatabase/index.html",
-    "precache-manifest.8fd9ff869043b30feac82d6117236e4d.js": "/CocktailDatabase/precache-manifest.8fd9ff869043b30feac82d6117236e4d.js",
+    "precache-manifest.d36457b58c5efed53d977ec2e95d3f3e.js": "/CocktailDatabase/precache-manifest.d36457b58c5efed53d977ec2e95d3f3e.js",
     "service-worker.js": "/CocktailDatabase/service-worker.js",
     "static/css/2.ee47ed0b.chunk.css.map": "/CocktailDatabase/static/css/2.ee47ed0b.chunk.css.map",
     "static/js/2.e9038e8f.chunk.js.LICENSE.txt": "/CocktailDatabase/static/js/2.e9038e8f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8cdd5b2b.js",
     "static/css/2.ee47ed0b.chunk.css",
     "static/js/2.e9038e8f.chunk.js",
-    "static/js/main.a6c5b871.chunk.js"
+    "static/js/main.329de607.chunk.js"
   ]
 }
